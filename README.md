@@ -1,5 +1,4 @@
-# Fine-tuning LLM Model on Medical Dataset: Technical Report
-
+# Fine-tuning LLM Model on Medical Dataset
 ## Project Overview
 This report documents the fine-tuning process of a Large Language Model (LLM) for medical image analysis, specifically focusing on radiographic interpretation. The project demonstrates the enhancement of model performance through specialized medical dataset training.
 
